@@ -9,20 +9,20 @@ Ez a dokumentum négy különböző tanulmányból gyűjtött adatokat foglalja 
 ## 1. cikk: Survival Prediction and Comparison of the Titanic based on Machine Learning Classifiers
 
 - **Logisztikus regresszió (LR)**:
-    - Keresztvalidációs pontszám: **0.79**
-    - Precizitás: **88.2%**
-    - Visszahívás: **82.9%**
+    - Keresztvalidációs pontszám: **79%**
+    - Precision: **88.2%**
+    - Recall: **82.9%**
     - AUROC: **0.81**
 - **Döntési fák (DT)**:
     - Mélység: **45 és 75**
-    - Keresztvalidációs pontszám: **0.77**
-    - Precizitás: **86.8%**
-    - Visszahívás: **84.6%**
+    - Keresztvalidációs pontszám: **77%**
+    - Precision: **86.8%**
+    - Recall: **84.6%**
 - **Véletlen erdők (RF)**:
     - Mélység: **45 és 75**
     - Pontszám: **79.8%**
-    - Precizitás: **91.9%**
-    - Visszahívás: **87.2%**
+    - Precision: **91.9%**
+    - Recall: **87.2%**
 - **Jellemzők**:
     - **Kor**: mediánnal kitöltve
     - **Kabinszám**: 'Unknown'-ra cserélve
