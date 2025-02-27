@@ -8,6 +8,8 @@ Ez a dokumentum négy különböző tanulmányból gyűjtött adatokat foglalja 
 
 ## 1. cikk: Survival Prediction and Comparison of the Titanic based on Machine Learning Classifiers
 
+https://wepub.org/index.php/TCSISR/article/view/2428/2645
+
 - **Logisztikus regresszió (LR)**:
     - Keresztvalidációs pontszám: **79%**
     - Precision: **88.2%**
@@ -38,6 +40,8 @@ Ez a dokumentum négy különböző tanulmányból gyűjtött adatokat foglalja 
 
 ## 2. cikk: Basic Feature Engineering with the Titanic Data
 
+https://triangleinequality.wordpress.com/2013/09/08/basic-feature-engineering-with-the-titanic-data/
+
 - **Név oszlop megőrzése**: nem törölték, hanem a címeket (Mr, Mrs, Miss, Master) használták új kategóriaként
 - **Kabinszám**:
     - Csak az 1. osztályú utasoknak volt kabinja, a többieknél 'Unknown'
@@ -52,6 +56,10 @@ Ez a dokumentum négy különböző tanulmányból gyűjtött adatokat foglalja 
 
 ## 3. cikk: Predicting the Likelihood of Survival of Titanic’s Passengers by Machine Learning
 
+
+A. Dasgupta,V. P. Mishra, S. Jha, et al. Predicting the Likelihood of Survival of Titanic’s Passengers by Machine Learning, 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE). IEEE, 2021pp: 52-57
+
+
 - **Megfigyelések**:
     - Kevés gyermek utazott dadával, ezért **Parch = 0**
     - A túlélés valószínűsége magasabb **18 és 30 év közötti férfiaknál** és **14 és 40 év közötti nőknél**
@@ -65,6 +73,13 @@ Ez a dokumentum négy különböző tanulmányból gyűjtött adatokat foglalja 
 ---
 
 ## 4. cikk: Analyzing Titanic Disaster using Machine Learning Algorithms
+
+
+Analyzing Titanic Disaster using Machine Learning Algorithms
+Dr.Prabha Shreeraj Nair
+Dean Research, Tulsiramji Gayakwade Patil College of
+Engineering and Technology, Nagpu
+
 
 - **Címek és kor kapcsolatának vizsgálata**:
     - A **Miss** általában fiatalabb, mint a **Mrs**
